@@ -9,5 +9,5 @@ Descrição: Este repositório contém exercícios de lógica de programação d
 > - Estruturas de decisão: if, if...else, switch;  
 > - Estruturas de repetição: while, do-while, for.  
 
-### nice practice
-
+### Good practice!
+![nice (3)](https://user-images.githubusercontent.com/97626768/172017750-d916305f-a9e8-4ce2-b2f9-d093042d94dc.jpg)
