@@ -6,7 +6,7 @@ Descrição: Este repositório contém exercícios de lógica de programação d
 > 
 > - Operadores: aritméticos, lógicos, comparação;  
 > - Funções;   
-> - Estruturas de decisão: if, if...else, switch;  
+> - Estruturas de decisão: if, if...else;  
 > - Estruturas de repetição: while, do-while, for.  
 
 ### Good practice!
