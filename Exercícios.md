@@ -1,4 +1,4 @@
-Lista 1: 
+# Lista 1: 
 
 1. Faça uma função que:
 
@@ -42,7 +42,7 @@ d) (B + A) <= C
 
 e) (C + A) > B  
 
-Lista 2:
+# Lista 2:
 
 1. Faça uma função que:
 
