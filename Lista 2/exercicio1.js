@@ -1,16 +1,3 @@
-/*let variable = 5 ;
-let squaredNumber2 = Math.pow(variable,2);
-console.log(squaredNumber2);*/
-
-/*1)      Faça uma função que:
-
-a)       Receba 4 (quatro) números
-
-b)      Calcule o quadrado para cada um
-
-c)       Somem todos e
-
-d)      Mostre o resultado*/
 
 function enquadrado (a, b, c, d){
     let num1 = parseFloat(Math.pow(a, 2));
