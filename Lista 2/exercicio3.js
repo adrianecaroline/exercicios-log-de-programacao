@@ -1,17 +1,4 @@
 //3 
-/* 
- Sabendo que A=5, B=4 e C=3 e D=6, informe se as expressões abaixo são verdadeiras ou falsas.
-
-a)       (A > C) AND (C <= D)                       
-
-b)      (A + B) > 10 OR (A + B) = (C + D)                 
-
-c)       (A >= C) AND (D >= C)                   
-
-d)      (B > D) AND (A <= C)                     
-
-e)      (D <= A) OR (C >= B)  
-*/
 
 function expressoes(){
     let a = 5, b = 4, c = 3, d = 6;
